@@ -4,7 +4,7 @@
 现在做 AI Agent 在客服场景的落地实践，求职 **AI 实施 / 交付工程师**。
 
 **主推项目**
-- [租车行业 AI Agent 实践](链接) — RAG 检索 / 工具调用 / 结构化输出，含三个踩坑复盘
+- [租车行业 AI Agent 实践](https://github.com/dingbangjie717/rental-customer-service-agent) — RAG 检索 / 工具调用 / 结构化输出，含三个踩坑复盘
 
 **其他**
 - [限购到家](链接) — Spring Boot 社区购系统
