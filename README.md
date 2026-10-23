@@ -7,7 +7,7 @@
 - [租车行业 AI Agent 实践](https://github.com/dingbangjie717/rental-customer-service-agent) — RAG 检索 / 工具调用 / 结构化输出，含三个踩坑复盘
 
 **其他**
-- [限购到家](链接) — Spring Boot 社区购系统
+- [限购到家](https://github.com/dingbangjie717/group-buy) — Spring Boot 社区购系统
 - 
 
 📹 [90 秒演示视频](链接)
