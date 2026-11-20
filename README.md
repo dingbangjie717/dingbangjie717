@@ -1,9 +1,8 @@
 ### 你好，我是 丁帮杰
+2 年 Java 后端开发 + 8 个月一线客服。既理解数据在系统里如何产生和流转，也理解用户在真实业务场景中遇到的问题——做分析时不会只盯数字，能还原数字背后的业务动作。
+**电商订单数据分析**
 
-计算机本科，8 个月租车客服一线经验（售前售中售后 + 客诉）。
-现在做 AI Agent 在客服场景的落地实践，求职 **AI 实施 / 交付工程师**。
-
-**主推项目**
+**AI agent项目**
 - [租车行业 AI Agent 实践](https://github.com/dingbangjie717/rental-customer-service-agent) — RAG 检索 / 工具调用 / 结构化输出，含三个踩坑复盘
 📹 [90 秒演示视频](https://www.bilibili.com/video/BV1oXnx6sENt/?spm_id_from=333.1387.upload.video_card.click&vd_source=cc8e8c43f3a37e3552ce4f2fe7dd0eb8)
 
